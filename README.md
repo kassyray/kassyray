@@ -14,7 +14,7 @@
   </div>
 
 
-### :woman_technologist: About Me :
+### About Me :
 - I'm a PhD student in Computational Sciences at the University of Guelph 
 - I have a MSc in Bioinformatics where I explored unsupervised and supervised Machine Learning and signal processing
 - I'm currently working on using Graph Databases for metadata management and semantic interoperability 
